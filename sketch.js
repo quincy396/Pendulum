@@ -40,5 +40,8 @@ function draw(){
     //c.render()
 
 }
+function mousePressed(){
+    makePendulums()
+}
 
 
